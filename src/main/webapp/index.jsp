@@ -1,9 +1,9 @@
 <html>
 <head>
-    <title>Boxfuse Sample App: success!</title>
+    <title>Lesson10: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations!</h1>
+<h1>Поздравляем!</h1>
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your Instance!</h2>
