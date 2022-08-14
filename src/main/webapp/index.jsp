@@ -5,6 +5,6 @@
 <body style="text-align: center">
 <h1>Whatsapp Doc!</h1>
 <img src="boxfuse.png">
-<p><strong>Enjoy now!</strong></p>
+<p><strong>Enjoy now and good luck!</strong></p>
 </body>
 </html>
